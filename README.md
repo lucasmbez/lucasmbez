@@ -1,8 +1,11 @@
-### Hello! I'm Lucas Bezerra
+### Hello! I'm Lucas Bezerra, I'm graduated in Electrical Engineer (UTFPR, 2021) and I work with data analysis.
+
+  ##
+
 <div align="center">
   <a href="https://github.com/lucasmbez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmbez&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmbez&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmbez&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
@@ -11,9 +14,10 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="lucas-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lucas-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="lucas-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  
 </div>
 
     
