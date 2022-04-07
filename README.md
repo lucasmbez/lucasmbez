@@ -1,4 +1,4 @@
-### Hello! I'm Lucas Bezerra, I'm graduated in Electrical Engineer (UTFPR, 2021) and I work with data analysis.
+### Hello! I'm Lucas Bezerra, graduated in Electrical Engineer (UTFPR, 2021) and I work with data analysis.
 
   ##
 
